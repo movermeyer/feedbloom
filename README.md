@@ -37,5 +37,5 @@ Feedbloom will get the last updated feeds from the list of entries and show them
 - Add source for each entry.
 
 
-[![Latest Version](https://pypip.in/version/feedbloom/badge.svg)](https://pypi.python.org/pypi/feedbloom/)
-[![PyPI downloads](https://pypip.in/download/feedbloom/badge.svg)](https://pypi.python.org/pypi/feedbloom/)
+[![Latest Version](https://img.shields.io/pypi/v/feedbloom.svg)](https://pypi.python.org/pypi/feedbloom/)
+[![PyPI downloads](https://img.shields.io/pypi/dm/feedbloom.svg)](https://pypi.python.org/pypi/feedbloom/)
